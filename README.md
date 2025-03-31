@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeraclesPath/LeetTrip/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/HeraclesPath/LeetTrip/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/HeraclesPath/LeetTrip/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HeraclesPath/LeetTrip/tree/master/0238-product-of-array-except-self) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/HeraclesPath/LeetTrip/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/HeraclesPath/LeetTrip/tree/master/0135-candy) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 ## Counting Sort
 |  |
