@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HeraclesPath/LeetTrip/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/HeraclesPath/LeetTrip/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Simulation
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HeraclesPath/LeetTrip/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeraclesPath/LeetTrip/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
