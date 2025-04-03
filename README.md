@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HeraclesPath/LeetTrip/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/HeraclesPath/LeetTrip/tree/master/3430-count-days-without-meetings) |
