@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/HeraclesPath/LeetTrip/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HeraclesPath/LeetTrip/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HeraclesPath/LeetTrip/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HeraclesPath/LeetTrip/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HeraclesPath/LeetTrip/tree/master/0056-merge-intervals) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HeraclesPath/LeetTrip/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/HeraclesPath/LeetTrip/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
