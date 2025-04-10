@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HeraclesPath/LeetTrip/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HeraclesPath/LeetTrip/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HeraclesPath/LeetTrip/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HeraclesPath/LeetTrip/tree/master/0057-insert-interval) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HeraclesPath/LeetTrip/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/HeraclesPath/LeetTrip/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/HeraclesPath/LeetTrip/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
