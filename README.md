@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/2383-add-two-integers) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0416-partition-equal-subset-sum) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String Matching
 |  |
 | ------- |
