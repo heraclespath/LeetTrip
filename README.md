@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeraclesPath/LeetTrip/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/HeraclesPath/LeetTrip/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/HeraclesPath/LeetTrip/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeraclesPath/LeetTrip/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HeraclesPath/LeetTrip/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HeraclesPath/LeetTrip/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/HeraclesPath/LeetTrip/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HeraclesPath/LeetTrip/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0128-longest-consecutive-sequence) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
