@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/HeraclesPath/LeetTrip/tree/master/0441-arranging-coins) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2050-count-good-numbers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/HeraclesPath/LeetTrip/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HeraclesPath/LeetTrip/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/HeraclesPath/LeetTrip/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
