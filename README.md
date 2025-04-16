@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/HeraclesPath/LeetTrip/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HeraclesPath/LeetTrip/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/HeraclesPath/LeetTrip/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2050-count-good-numbers) |
 ## Interactive
