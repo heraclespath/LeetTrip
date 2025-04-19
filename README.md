@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HeraclesPath/LeetTrip/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HeraclesPath/LeetTrip/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeraclesPath/LeetTrip/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/HeraclesPath/LeetTrip/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/HeraclesPath/LeetTrip/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HeraclesPath/LeetTrip/tree/master/0374-guess-number-higher-or-lower) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HeraclesPath/LeetTrip/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/HeraclesPath/LeetTrip/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/HeraclesPath/LeetTrip/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/HeraclesPath/LeetTrip/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0226-invert-binary-tree) |
 ## Doubly-Linked List
 |  |
