@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HeraclesPath/LeetTrip/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/HeraclesPath/LeetTrip/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/HeraclesPath/LeetTrip/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0416-partition-equal-subset-sum) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HeraclesPath/LeetTrip/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HeraclesPath/LeetTrip/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0416-partition-equal-subset-sum) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/HeraclesPath/LeetTrip/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HeraclesPath/LeetTrip/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
