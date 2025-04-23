@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HeraclesPath/LeetTrip/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/HeraclesPath/LeetTrip/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0221-maximal-square) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HeraclesPath/LeetTrip/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HeraclesPath/LeetTrip/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/HeraclesPath/LeetTrip/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
