@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HeraclesPath/LeetTrip/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HeraclesPath/LeetTrip/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HeraclesPath/LeetTrip/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HeraclesPath/LeetTrip/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/HeraclesPath/LeetTrip/tree/master/0120-triangle) |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
