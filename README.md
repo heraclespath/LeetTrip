@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HeraclesPath/LeetTrip/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HeraclesPath/LeetTrip/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HeraclesPath/LeetTrip/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HeraclesPath/LeetTrip/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/HeraclesPath/LeetTrip/tree/master/0149-max-points-on-a-line) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HeraclesPath/LeetTrip/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/HeraclesPath/LeetTrip/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HeraclesPath/LeetTrip/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HeraclesPath/LeetTrip/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/HeraclesPath/LeetTrip/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/HeraclesPath/LeetTrip/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HeraclesPath/LeetTrip/tree/master/0072-edit-distance) |
@@ -184,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/HeraclesPath/LeetTrip/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/HeraclesPath/LeetTrip/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/HeraclesPath/LeetTrip/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HeraclesPath/LeetTrip/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/HeraclesPath/LeetTrip/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HeraclesPath/LeetTrip/tree/master/0191-number-of-1-bits) |
