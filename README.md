@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HeraclesPath/LeetTrip/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/HeraclesPath/LeetTrip/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HeraclesPath/LeetTrip/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/HeraclesPath/LeetTrip/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/HeraclesPath/LeetTrip/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/HeraclesPath/LeetTrip/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/HeraclesPath/LeetTrip/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HeraclesPath/LeetTrip/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeraclesPath/LeetTrip/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HeraclesPath/LeetTrip/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/HeraclesPath/LeetTrip/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HeraclesPath/LeetTrip/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/HeraclesPath/LeetTrip/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HeraclesPath/LeetTrip/tree/master/0205-isomorphic-strings) |
@@ -612,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/HeraclesPath/LeetTrip/tree/master/0399-evaluate-division) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/HeraclesPath/LeetTrip/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
