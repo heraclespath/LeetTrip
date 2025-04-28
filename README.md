@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/HeraclesPath/LeetTrip/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/HeraclesPath/LeetTrip/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
