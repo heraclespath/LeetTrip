@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/HeraclesPath/LeetTrip/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/HeraclesPath/LeetTrip/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0416-partition-equal-subset-sum) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/HeraclesPath/LeetTrip/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 ## Stack
 |  |
