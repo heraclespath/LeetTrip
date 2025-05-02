@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/HeraclesPath/LeetTrip/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -423,10 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HeraclesPath/LeetTrip/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0215-kth-largest-element-in-an-array) |
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HeraclesPath/LeetTrip/tree/master/2280-count-good-triplets-in-an-array) |
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Topological Sort
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
+| [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String Matching
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Quickselect
 |  |
