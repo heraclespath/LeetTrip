@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/HeraclesPath/LeetTrip/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/HeraclesPath/LeetTrip/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HeraclesPath/LeetTrip/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/HeraclesPath/LeetTrip/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HeraclesPath/LeetTrip/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0212-word-search-ii) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HeraclesPath/LeetTrip/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HeraclesPath/LeetTrip/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeraclesPath/LeetTrip/tree/master/0167-two-sum-ii-input-array-is-sorted) |
