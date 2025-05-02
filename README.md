@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HeraclesPath/LeetTrip/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HeraclesPath/LeetTrip/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HeraclesPath/LeetTrip/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HeraclesPath/LeetTrip/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/HeraclesPath/LeetTrip/tree/master/0038-count-and-say) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HeraclesPath/LeetTrip/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/HeraclesPath/LeetTrip/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HeraclesPath/LeetTrip/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0053-maximum-subarray) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/HeraclesPath/LeetTrip/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0052-n-queens-ii) |
