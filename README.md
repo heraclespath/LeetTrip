@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1603-running-sum-of-1d-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HeraclesPath/LeetTrip/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HeraclesPath/LeetTrip/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/HeraclesPath/LeetTrip/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/HeraclesPath/LeetTrip/tree/master/1791-richest-customer-wealth) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HeraclesPath/LeetTrip/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeraclesPath/LeetTrip/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HeraclesPath/LeetTrip/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HeraclesPath/LeetTrip/tree/master/1646-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HeraclesPath/LeetTrip/tree/master/2280-count-good-triplets-in-an-array) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/HeraclesPath/LeetTrip/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HeraclesPath/LeetTrip/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeraclesPath/LeetTrip/tree/master/2392-successful-pairs-of-spells-and-potions) |
