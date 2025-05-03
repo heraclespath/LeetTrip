@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/HeraclesPath/LeetTrip/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
+| [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/HeraclesPath/LeetTrip/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/HeraclesPath/LeetTrip/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HeraclesPath/LeetTrip/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HeraclesPath/LeetTrip/tree/master/0238-product-of-array-except-self) |
+| [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1603-running-sum-of-1d-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HeraclesPath/LeetTrip/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HeraclesPath/LeetTrip/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/HeraclesPath/LeetTrip/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
