@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HeraclesPath/LeetTrip/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/HeraclesPath/LeetTrip/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HeraclesPath/LeetTrip/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/HeraclesPath/LeetTrip/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0908-middle-of-the-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/HeraclesPath/LeetTrip/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/HeraclesPath/LeetTrip/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HeraclesPath/LeetTrip/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HeraclesPath/LeetTrip/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HeraclesPath/LeetTrip/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/HeraclesPath/LeetTrip/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HeraclesPath/LeetTrip/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/HeraclesPath/LeetTrip/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/HeraclesPath/LeetTrip/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HeraclesPath/LeetTrip/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/HeraclesPath/LeetTrip/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 ## Stack
 |  |
