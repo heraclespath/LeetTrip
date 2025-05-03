@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/HeraclesPath/LeetTrip/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/HeraclesPath/LeetTrip/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HeraclesPath/LeetTrip/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/HeraclesPath/LeetTrip/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/HeraclesPath/LeetTrip/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HeraclesPath/LeetTrip/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/HeraclesPath/LeetTrip/tree/master/0436-find-right-interval) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HeraclesPath/LeetTrip/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HeraclesPath/LeetTrip/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HeraclesPath/LeetTrip/tree/master/0295-find-median-from-data-stream) |
+| [0354-russian-doll-envelopes](https://github.com/HeraclesPath/LeetTrip/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0436-find-right-interval](https://github.com/HeraclesPath/LeetTrip/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HeraclesPath/LeetTrip/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/HeraclesPath/LeetTrip/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0416-partition-equal-subset-sum) |
