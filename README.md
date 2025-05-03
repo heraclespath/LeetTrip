@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/HeraclesPath/LeetTrip/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/HeraclesPath/LeetTrip/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/HeraclesPath/LeetTrip/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/HeraclesPath/LeetTrip/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HeraclesPath/LeetTrip/tree/master/0322-coin-change) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeraclesPath/LeetTrip/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HeraclesPath/LeetTrip/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/HeraclesPath/LeetTrip/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0367-valid-perfect-square) |
