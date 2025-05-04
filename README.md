@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/HeraclesPath/LeetTrip/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HeraclesPath/LeetTrip/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/HeraclesPath/LeetTrip/tree/master/0433-minimum-genetic-mutation) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
 | [1023-time-based-key-value-store](https://github.com/HeraclesPath/LeetTrip/tree/master/1023-time-based-key-value-store) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1500-count-largest-group](https://github.com/HeraclesPath/LeetTrip/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/HeraclesPath/LeetTrip/tree/master/0383-ransom-note) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Binary Search
 |  |
 | ------- |
