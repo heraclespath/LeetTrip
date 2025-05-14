@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/3637-count-number-of-balanced-permutations) |
 ## Array
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/HeraclesPath/LeetTrip/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HeraclesPath/LeetTrip/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HeraclesPath/LeetTrip/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HeraclesPath/LeetTrip/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
