@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HeraclesPath/LeetTrip/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HeraclesPath/LeetTrip/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeraclesPath/LeetTrip/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HeraclesPath/LeetTrip/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/HeraclesPath/LeetTrip/tree/master/0295-find-median-from-data-stream) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/HeraclesPath/LeetTrip/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/HeraclesPath/LeetTrip/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/HeraclesPath/LeetTrip/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/HeraclesPath/LeetTrip/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2050-count-good-numbers) |
 ## Interactive
 |  |
