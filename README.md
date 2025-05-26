@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1500-count-largest-group](https://github.com/HeraclesPath/LeetTrip/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HeraclesPath/LeetTrip/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/HeraclesPath/LeetTrip/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Search
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HeraclesPath/LeetTrip/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/HeraclesPath/LeetTrip/tree/master/0399-evaluate-division) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HeraclesPath/LeetTrip/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/HeraclesPath/LeetTrip/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -847,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HeraclesPath/LeetTrip/tree/master/0139-word-break) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
