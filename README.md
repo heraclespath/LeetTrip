@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HeraclesPath/LeetTrip/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HeraclesPath/LeetTrip/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HeraclesPath/LeetTrip/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/HeraclesPath/LeetTrip/tree/master/0945-snakes-and-ladders) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
