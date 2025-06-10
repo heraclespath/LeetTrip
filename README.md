@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HeraclesPath/LeetTrip/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HeraclesPath/LeetTrip/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HeraclesPath/LeetTrip/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/HeraclesPath/LeetTrip/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HeraclesPath/LeetTrip/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HeraclesPath/LeetTrip/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HeraclesPath/LeetTrip/tree/master/0069-sqrtx) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/HeraclesPath/LeetTrip/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HeraclesPath/LeetTrip/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0070-climbing-stairs) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HeraclesPath/LeetTrip/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/3637-count-number-of-balanced-permutations) |
