@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
 | [1023-time-based-key-value-store](https://github.com/HeraclesPath/LeetTrip/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HeraclesPath/LeetTrip/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1250-longest-common-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/1250-longest-common-subsequence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/HeraclesPath/LeetTrip/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
