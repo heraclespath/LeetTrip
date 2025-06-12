@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HeraclesPath/LeetTrip/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/HeraclesPath/LeetTrip/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HeraclesPath/LeetTrip/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
@@ -696,11 +697,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/HeraclesPath/LeetTrip/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HeraclesPath/LeetTrip/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HeraclesPath/LeetTrip/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/HeraclesPath/LeetTrip/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
