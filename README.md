@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HeraclesPath/LeetTrip/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HeraclesPath/LeetTrip/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/HeraclesPath/LeetTrip/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/HeraclesPath/LeetTrip/tree/master/0433-minimum-genetic-mutation) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/HeraclesPath/LeetTrip/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2050-count-good-numbers) |
 ## Interactive
 |  |
