@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HeraclesPath/LeetTrip/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HeraclesPath/LeetTrip/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HeraclesPath/LeetTrip/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/HeraclesPath/LeetTrip/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2050-count-good-numbers) |
