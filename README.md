@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/HeraclesPath/LeetTrip/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeraclesPath/LeetTrip/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HeraclesPath/LeetTrip/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HeraclesPath/LeetTrip/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HeraclesPath/LeetTrip/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HeraclesPath/LeetTrip/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
