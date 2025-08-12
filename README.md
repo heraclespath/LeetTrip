@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HeraclesPath/LeetTrip/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/HeraclesPath/LeetTrip/tree/master/2529-range-product-queries-of-powers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1603-running-sum-of-1d-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HeraclesPath/LeetTrip/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/HeraclesPath/LeetTrip/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HeraclesPath/LeetTrip/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/HeraclesPath/LeetTrip/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HeraclesPath/LeetTrip/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
