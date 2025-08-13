@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/HeraclesPath/LeetTrip/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/HeraclesPath/LeetTrip/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/HeraclesPath/LeetTrip/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/HeraclesPath/LeetTrip/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HeraclesPath/LeetTrip/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HeraclesPath/LeetTrip/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/HeraclesPath/LeetTrip/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/HeraclesPath/LeetTrip/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2050-count-good-numbers) |
 ## Interactive
