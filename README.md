@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HeraclesPath/LeetTrip/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/HeraclesPath/LeetTrip/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/HeraclesPath/LeetTrip/tree/master/0441-arranging-coins) |
+| [0679-24-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HeraclesPath/LeetTrip/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/HeraclesPath/LeetTrip/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HeraclesPath/LeetTrip/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/HeraclesPath/LeetTrip/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/0212-word-search-ii) |
+| [0679-24-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
