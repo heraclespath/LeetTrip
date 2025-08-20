@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HeraclesPath/LeetTrip/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/HeraclesPath/LeetTrip/tree/master/2529-range-product-queries-of-powers) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HeraclesPath/LeetTrip/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/HeraclesPath/LeetTrip/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## String
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HeraclesPath/LeetTrip/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/HeraclesPath/LeetTrip/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeraclesPath/LeetTrip/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HeraclesPath/LeetTrip/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/HeraclesPath/LeetTrip/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HeraclesPath/LeetTrip/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HeraclesPath/LeetTrip/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeraclesPath/LeetTrip/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HeraclesPath/LeetTrip/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -716,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HeraclesPath/LeetTrip/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/HeraclesPath/LeetTrip/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -908,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/HeraclesPath/LeetTrip/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/HeraclesPath/LeetTrip/tree/master/1036-rotting-oranges) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
