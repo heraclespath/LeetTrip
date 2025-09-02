@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/HeraclesPath/LeetTrip/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/HeraclesPath/LeetTrip/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
