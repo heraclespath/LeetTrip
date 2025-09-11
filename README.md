@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/HeraclesPath/LeetTrip/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HeraclesPath/LeetTrip/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HeraclesPath/LeetTrip/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/HeraclesPath/LeetTrip/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HeraclesPath/LeetTrip/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HeraclesPath/LeetTrip/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/HeraclesPath/LeetTrip/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/HeraclesPath/LeetTrip/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HeraclesPath/LeetTrip/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HeraclesPath/LeetTrip/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
