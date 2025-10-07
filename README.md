@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HeraclesPath/LeetTrip/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HeraclesPath/LeetTrip/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/HeraclesPath/LeetTrip/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HeraclesPath/LeetTrip/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/3637-count-number-of-balanced-permutations) |
+| [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HeraclesPath/LeetTrip/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/HeraclesPath/LeetTrip/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [2429-design-a-food-rating-system](https://github.com/HeraclesPath/LeetTrip/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/HeraclesPath/LeetTrip/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
 ## Randomized
 |  |
 | ------- |
