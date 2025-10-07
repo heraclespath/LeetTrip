@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HeraclesPath/LeetTrip/tree/master/3637-count-number-of-balanced-permutations) |
 | [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/HeraclesPath/LeetTrip/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HeraclesPath/LeetTrip/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/HeraclesPath/LeetTrip/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/HeraclesPath/LeetTrip/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/HeraclesPath/LeetTrip/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
