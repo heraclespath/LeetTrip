@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HeraclesPath/LeetTrip/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/HeraclesPath/LeetTrip/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HeraclesPath/LeetTrip/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HeraclesPath/LeetTrip/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/HeraclesPath/LeetTrip/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HeraclesPath/LeetTrip/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HeraclesPath/LeetTrip/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HeraclesPath/LeetTrip/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3791-fruits-into-baskets-iii](https://github.com/HeraclesPath/LeetTrip/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/HeraclesPath/LeetTrip/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HeraclesPath/LeetTrip/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HeraclesPath/LeetTrip/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/HeraclesPath/LeetTrip/tree/master/3827-implement-router) |
 ## Topological Sort
 |  |
 | ------- |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/HeraclesPath/LeetTrip/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/HeraclesPath/LeetTrip/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HeraclesPath/LeetTrip/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HeraclesPath/LeetTrip/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/HeraclesPath/LeetTrip/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/HeraclesPath/LeetTrip/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/HeraclesPath/LeetTrip/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/HeraclesPath/LeetTrip/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
