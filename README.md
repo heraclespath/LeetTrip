@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/HeraclesPath/LeetTrip/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
+| [1018-largest-perimeter-triangle](https://github.com/HeraclesPath/LeetTrip/tree/master/1018-largest-perimeter-triangle) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/HeraclesPath/LeetTrip/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HeraclesPath/LeetTrip/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/HeraclesPath/LeetTrip/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
 | [1006-vowel-spellchecker](https://github.com/HeraclesPath/LeetTrip/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/HeraclesPath/LeetTrip/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/HeraclesPath/LeetTrip/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HeraclesPath/LeetTrip/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/HeraclesPath/LeetTrip/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/HeraclesPath/LeetTrip/tree/master/0658-find-k-closest-elements) |
+| [1018-largest-perimeter-triangle](https://github.com/HeraclesPath/LeetTrip/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HeraclesPath/LeetTrip/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HeraclesPath/LeetTrip/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeraclesPath/LeetTrip/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/HeraclesPath/LeetTrip/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/HeraclesPath/LeetTrip/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/HeraclesPath/LeetTrip/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HeraclesPath/LeetTrip/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1612-avoid-flood-in-the-city](https://github.com/HeraclesPath/LeetTrip/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HeraclesPath/LeetTrip/tree/master/1834-minimum-number-of-people-to-teach) |
