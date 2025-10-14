@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/HeraclesPath/LeetTrip/tree/master/0441-arranging-coins) |
 | [0679-24-game](https://github.com/HeraclesPath/LeetTrip/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/HeraclesPath/LeetTrip/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HeraclesPath/LeetTrip/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/HeraclesPath/LeetTrip/tree/master/1500-count-largest-group) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/HeraclesPath/LeetTrip/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HeraclesPath/LeetTrip/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HeraclesPath/LeetTrip/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/HeraclesPath/LeetTrip/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HeraclesPath/LeetTrip/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-random-pick-with-weight](https://github.com/HeraclesPath/LeetTrip/tree/master/0912-random-pick-with-weight) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HeraclesPath/LeetTrip/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/HeraclesPath/LeetTrip/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/HeraclesPath/LeetTrip/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HeraclesPath/LeetTrip/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Monotonic Queue
