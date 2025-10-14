@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/HeraclesPath/LeetTrip/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/HeraclesPath/LeetTrip/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HeraclesPath/LeetTrip/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/HeraclesPath/LeetTrip/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HeraclesPath/LeetTrip/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HeraclesPath/LeetTrip/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HeraclesPath/LeetTrip/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/HeraclesPath/LeetTrip/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HeraclesPath/LeetTrip/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HeraclesPath/LeetTrip/tree/master/0954-maximum-sum-circular-subarray) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/HeraclesPath/LeetTrip/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/HeraclesPath/LeetTrip/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HeraclesPath/LeetTrip/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HeraclesPath/LeetTrip/tree/master/1986-largest-color-value-in-a-directed-graph) |
